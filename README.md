@@ -82,7 +82,7 @@ A full-stack developer curious to learn new technologies and love to work on dif
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p>💻 GitHub Profile Stats</p>
-<a href="#"><img alt="Myleshen's Github Stats" src="https://myleshen-github-readme.vercel.app/api/?username=Myleshen&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true height="192px"/></a>
+<a href="#"><img alt="Myleshen's Github Stats" src="https://myleshen-github-readme.vercel.app/api/?username=Myleshen&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" height="192px"/></a>
 
 <p>⚡ Recent GitHub Activity</p>
 <br/>
