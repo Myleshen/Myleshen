@@ -19,6 +19,8 @@ A full-stack developer curious to learn new technologies and love to work on dif
 [<img align="left" alt="Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
 [<img align="left" alt="Reddit" width="22px" src="https://app.bio.link/favicon.ico" />][biolink]
 
+<br/>
+
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 ## 🛠️ Tools I've Worked on
@@ -82,8 +84,8 @@ A full-stack developer curious to learn new technologies and love to work on dif
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <img alt="Myleshen's Github Stats" src="https://myleshen-github-readme.vercel.app/api/?username=Myleshen&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true height="192px"/>
-    <img alt="Myleshen's Top Languages" src="https://myleshen-github-readme.vercel.app/api/top-langs/?username=Myleshen&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true" height="192px"/>
+    <a href="#"><img alt="Myleshen's Github Stats" src="https://myleshen-github-readme.vercel.app/api/?username=Myleshen&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true height="192px"/></a>
+    <a href="#"><img alt="Myleshen's Top Languages" src="https://myleshen-github-readme.vercel.app/api/top-langs/?username=Myleshen&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
