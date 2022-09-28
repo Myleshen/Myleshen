@@ -81,14 +81,8 @@ A full-stack developer curious to learn new technologies and love to work on dif
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="#"><img alt="Myleshen's Github Stats" src="https://myleshen-github-readme.vercel.app/api/?username=Myleshen&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true height="192px"/></a>
-    <a href="#"><img alt="Myleshen's Top Languages" src="https://myleshen-github-readme.vercel.app/api/top-langs/?username=Myleshen&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
+<p>💻 GitHub Profile Stats</p>
+<a href="#"><img alt="Myleshen's Github Stats" src="https://myleshen-github-readme.vercel.app/api/?username=Myleshen&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true height="192px"/></a>
 
 <p>⚡ Recent GitHub Activity</p>
 <br/>
