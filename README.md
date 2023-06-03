@@ -73,14 +73,6 @@ A full-stack developer curious to learn new technologies and love to work on dif
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-
-## 📊 Github stats
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<p>💻 GitHub Profile Stats</p>
-<a href="#"><img alt="Myleshen's Github Stats" src="https://myleshen-github-readme.vercel.app/api/?username=Myleshen&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" height="192px"/></a>
-
-<p>⚡ Recent GitHub Activity</p>
 <br/>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Myleshen's Activity Graph" src="http://github-readme-activity-graph.myleshen.repl.co/graph?username=Myleshen&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
