@@ -75,8 +75,6 @@ A full-stack developer curious to learn new technologies and love to work on dif
 </p>
 <br/>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Myleshen's Activity Graph" src="http://github-readme-activity-graph.myleshen.repl.co/graph?username=Myleshen&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
 [linkedin]: https://www.linkedin.com/in/myleshen/
 [instagram]: https://www.instagram.com/myleshenp/
 [biolink]: http://myleshen.bio.link/
